@@ -1,2 +1,9 @@
 # rdm-funny-msg
-Randin funny messages!
+Random funny messages!
+
+# Usage
+npm install -g rdm-funny-msg
+
+Now you can type in your terminal 
+
+rdm-funny-msg
