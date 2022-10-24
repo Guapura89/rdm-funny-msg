@@ -1,0 +1,26 @@
+{
+  "name": "rdm-funny-msg",
+  "version": "1.0.0",
+  "description": "Random funny messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guapura89/rdm-funny-msg.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Carlos Sanchez <betocrack1228@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Guapura89/rdm-funny-msg/issues"
+  },
+  "homepage": "https://github.com/Guapura89/rdm-funny-msg#readme",
+  "bin": {
+    "rdm-funny-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
